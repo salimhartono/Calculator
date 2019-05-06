@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="hasil">Hasil</string>
+    <string name="nilai_2">Nilai 2</string>
+    <string name="nilai_1">Nilai 1</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">/</string>
+    <string name="clear">C</string>
+</resources>
